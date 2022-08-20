@@ -1,2 +1,2 @@
 # calculator
-The Odin Project's "Calculator" exercise
+The Odin Project's "Calculator" project
